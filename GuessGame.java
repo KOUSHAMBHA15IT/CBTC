@@ -7,7 +7,6 @@ public class GuessGame {
     int turns=0;
     Scanner scan=new Scanner(System.in);
     System.out.println("Guess a number between 1 to 100, You will have 10 turns!" );
-    System.out.println("best of luck!");
     int g;
     int i=0;
     boolean win=false;
